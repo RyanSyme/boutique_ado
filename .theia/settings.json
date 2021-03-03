@@ -4,5 +4,5 @@
    "python.linting.pep8Enabled": false,
    "python.linting.flake8Enabled": false,
     "python.terminal.activateEnvironment": false,
-    "python.pythonPath": "boutique_ado/bin/python3"
+    "python.pythonPath": "/home/gitpod/.pyenv/versions/3.8.7/bin/python"
 }
